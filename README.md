@@ -11,6 +11,12 @@ Idealny do szybkiego startu po formacie lub do testowania projektów lokalnie.
 
 ## 🚀 Szybki start
 
+### 0. One liner
+```bash
+git clone https://github.com/Lewan24/compose-n-go.git && cd compose-n-go && docker compose up -d
+```
+Lub poniżej krok po kroku
+
 ### 1. Sklonuj repozytorium
 ```bash
 git clone https://github.com/Lewan24/compose-n-go.git
